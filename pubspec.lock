@@ -176,6 +176,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.5.1"
+  torch_controller:
+    dependency: "direct main"
+    description:
+      name: torch_controller
+      sha256: "14d7ab15e4810b6e64bc5a70d4c4c931c69ffe86f92acb3ec94574c1754def8e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.1"
   vector_math:
     dependency: transitive
     description:
@@ -186,3 +194,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=3.0.6 <4.0.0"
+  flutter: ">=3.0.0"
